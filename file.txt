@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 inijjmore
+=======
+more
+>>>>>>> three
 new
 two
 oneAnew
