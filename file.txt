@@ -1,5 +1,11 @@
 
+<<<<<<< HEAD
 nexttwo
+=======
+inijjmore
+new
+two
+>>>>>>> two
 oneAnew
 A
 A
